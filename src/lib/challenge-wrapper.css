@@ -1,0 +1,25 @@
+.challenge-wrapper {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+.textarea-wrapper {
+  width: 100%;
+  border: 1px solid #21292b;
+  background-color: transparent;
+  resize: none;
+  font-size: small;
+  padding: 10px;
+  margin: 5px 0px;
+}
+
+.textarea-answer {
+  width: 100%;
+  border: 1px solid #21292b;
+  background-color: transparent;
+  resize: none;
+  font-size: small;
+  padding: 10px;
+  margin: 5px 0px;
+}
