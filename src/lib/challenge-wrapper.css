@@ -4,7 +4,7 @@
   margin-top: 20px;
 }
 
-.textarea-wrapper {
+.question-wrapper {
   width: 100%;
   border: 1px solid #21292b;
   background-color: transparent;
@@ -14,7 +14,7 @@
   margin: 5px 0px;
 }
 
-.textarea-answer {
+.answer-wrapper {
   width: 100%;
   border: 1px solid #21292b;
   background-color: transparent;

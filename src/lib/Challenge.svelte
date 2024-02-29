@@ -31,8 +31,8 @@
       div.appendChild(answer);
 
       div.classList.add("challenge-wrapper");
-      question.classList.add("textarea-wrapper");
-      answer.classList.add("textarea-answer");
+      question.classList.add("question-wrapper");
+      answer.classList.add("answer-wrapper");
 
       return div;
     }
